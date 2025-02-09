@@ -1,2 +1,0 @@
-[build]
-  command = "sed -i 's/UN_API_KEY_PLACEHOLDER/$UN_API_KEY/g' script.js"
